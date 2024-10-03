@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module GeneticAlgoIaScheduler {
+	requires cloudsim;
+}
